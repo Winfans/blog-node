@@ -1,0 +1,51 @@
+.description {
+    background: white;
+    width: 96%;
+    border-radius: 5px;
+    padding: 10px 15px 20px 15px;
+    box-shadow: 3px 4px 3px #888;
+    text-align: left;
+}
+
+.description > p {
+    margin-top: 15px;
+    padding: 0 0 0 15px;
+    font-size: 14px;
+}
+
+.blog-comments {
+    width: 100%;
+}
+
+.blog-comments-msg {
+    margin-top: 20px;
+    padding: 10px;
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+.blog-comment {
+    width: 95%;
+    background: #d9edf7;
+    border: 1px dashed #7ca4c1;
+    padding: 10px 10px 20px 10px;
+    margin-top: 10px;
+    color: #31708f;
+    text-align: left;
+}
+
+.blog-comment span {
+    display: inline-block;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.blog-comment div {
+    display: inline-block;;
+    width: 100%;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+

@@ -200,3 +200,29 @@ body {
     margin-top: 10px;
     color: #a2a2a2;
 }
+
+.page-tool {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.page-tool > ul > li {
+    display: inline-block;
+    list-style: none;
+    width: 40px;
+    height: 30px;
+    background: white;
+    line-height: 30px;
+    border: 1px solid #000;
+    float: left;
+    cursor: pointer;
+}
+
+.page-tool > ul > li:hover {
+    background: gray;
+}
+
+.now-page {
+    background: #333 !important;
+    color: #fff !important;
+}
